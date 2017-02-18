@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PK</string>
+    <string name="teama">TEAM A</string>
+    <string name="teamb">TEAM B</string>
+    <string name="button1">+1 POINT</string>
+    <string name="button2">+2 POINTS</string>
+    <string name="button3">+3 POINTS</string>
+    <string name="button4">+1 POINT</string>
+    <string name="button5">+2 POINTS</string>
+    <string name="button6">+3 POINTS</string>
+    <string name="button7">RESET</string>
+
+</resources>
